@@ -18,4 +18,4 @@ If any configuration must be changed, you have to take down the docker image wit
 
 To additionally remove stopped containers and all unused images (not just pending ones), add the -a flag to the command:
 
-      *docker system prune -a*
+    docker system prune -a
