@@ -5,4 +5,4 @@ if [ -d "./htdocs/bibliotech" ];
 fi
 
 cd htdocs &&
-git clone https://github.com/gabrielinuz/bibliotech.git
+git clone https://github.com/isft151/bibliotech.git
