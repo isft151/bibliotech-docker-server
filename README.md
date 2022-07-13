@@ -1,4 +1,4 @@
-# isft-apache
+# bibliotech-docker-server
 An Apache docker file with cgi script support
 
 To start the image and setting up Bibliotech to run: 
