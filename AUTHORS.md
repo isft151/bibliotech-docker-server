@@ -1,5 +1,5 @@
 # Authors, Students of ISFT 151:
 * ISFT151: Thiago, Cabrera (first author)
 
-# Professor and assistant:
+# Professor:
 * ISFT151: Ferreira, Gabriel
